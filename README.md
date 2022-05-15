@@ -1,2 +1,2 @@
 # django3-password-generator
-Учебный проект по созданию сайта генератора случайных паролей
+Training project of creating a random password generator website
